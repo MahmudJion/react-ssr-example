@@ -2,6 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To build the project, you can run:
+
+### `npm run build`
+
+To check the server side rendering, you can run:
+
+### `node server/index.js`
+
 In the project directory, you can run:
 
 ### `yarn start`
