@@ -5,17 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          this is an example of server side rendering
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>This is an example of server side rendering</h1>
       </header>
     </div>
   );
